@@ -1,10 +1,10 @@
-#include "mathutils"
-#include "advancedmath"
+#include "mathutils.h"
+#include "advancedmath.h"
 
 namespace AdvancedMath{
 	int square(int n){
 		using namespace MathUtils;
-		return MathUtils::Multiply(n, n);
+		return MathUtils::multiply(n, n);
 	}
 }
 

@@ -1,4 +1,4 @@
-#include "mathutils"
+#include "mathutils.h"
 
 namespace MathUtils{
 	int add(int a, int b){

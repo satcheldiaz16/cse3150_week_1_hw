@@ -1,6 +1,6 @@
 #pragma once
 
-#include "mathutils"
+#include "mathutils.h"
 
 namespace AdvancedMath{
 	int square(int n);
